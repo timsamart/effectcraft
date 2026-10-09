@@ -115,3 +115,11 @@ under [`docs/brand/LICENSE-brand.txt`](docs/brand/LICENSE-brand.txt). Forks and 
 | `docs/brand/artcraft-mark-black.svg` | ArtCraft Team | Original work: first-party ArtCraft brand mark (ArtCraft symbol ("A" mark), black) | ArtCraft brand terms, not open source (`docs/brand/LICENSE-brand.txt`) |
 | `docs/brand/artcraft-mark.png` | ArtCraft Team | Original work: first-party ArtCraft brand mark (ArtCraft symbol ("A" mark), blue) | ArtCraft brand terms, not open source (`docs/brand/LICENSE-brand.txt`) |
 | `docs/brand/artcraft-mark.svg` | ArtCraft Team | Original work: first-party ArtCraft brand mark (ArtCraft symbol ("A" mark), blue) | ArtCraft brand terms, not open source (`docs/brand/LICENSE-brand.txt`) |
+
+## Independent custom desktop icons
+
+| Path | Title | Creator | Source | Licence | Added | Modifications |
+|---|---|---|---|---|---|---|
+| `custom-icons/` | EffectCraft custom shortcut icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work; `custom-icons/generation-prompt.txt` | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted from one sheet; resized and packaged with Pillow |
+| `custom-icons/effectcraft.png` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
+| `custom-icons/effectcraft.ico` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
